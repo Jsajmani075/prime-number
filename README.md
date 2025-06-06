@@ -23,7 +23,7 @@ npm run dev
 server listen on 8080
 
 6.API Endpoint
-URL: http://localhost:3000/api/v1/prime
+URL: http://localhost:8080/api/v1/prime
 Method: POST
 postman body example
 {
